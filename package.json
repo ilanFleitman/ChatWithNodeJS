@@ -1,0 +1,23 @@
+{
+  "name": "chatt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilanFleitman/ChatWithNodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilanFleitman/ChatWithNodeJS/issues"
+  },
+  "homepage": "https://github.com/ilanFleitman/ChatWithNodeJS#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "websocket": "^1.0.23"
+  }
+}
